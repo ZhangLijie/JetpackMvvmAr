@@ -18,6 +18,6 @@ dependencyResolutionManagement {
  
  dependencies {
  
-	        implementation 'com.github.ZhangLijie:JetpackMvvmAr:Tag'
+	        implementation 'com.github.ZhangLijie:JetpackMvvmAr:V1.0.0'
 	 
 	}
